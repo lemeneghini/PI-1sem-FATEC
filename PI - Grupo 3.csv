@@ -1,0 +1,24 @@
+Id,Nome,Biblioteca de formas,ID da p´ágina,Contido por,Grupo,Origem da linha,Destino da linha,Seta de origem,Seta de destino,Área de texto 1
+1,Página,,,,,,,,,Página 1
+2,Ator,UML,1,,,,,,,Prestador / Autonomo (Morador Condomínio)
+3,Caso de uso,UML,1,,,,,,,Cadastrar no Site
+4,Caso de uso,UML,1,,,,,,,Informar Serviços
+5,Ator,UML,1,,,,,,,Morador condominio
+6,Caso de uso,UML,1,,,,,,,Criar Publicação
+7,Caso de uso,UML,1,,,,,,,Busca Prestador
+8,Caso de uso,UML,1,,,,,,,Consulta site
+9,Caso de uso,UML,1,,,,,,,Contrata serviço
+10,Ator,UML,1,,,,,,,Administrador
+11,Caso de uso,UML,1,,,,,,,Manter Site
+12,Caso de uso,UML,1,,,,,,,Validar Cadastro
+13,Texto,Padrão,1,,,,,,,<Include>
+14,Linha,,1,,,4,2,Arrow,None,
+15,Linha,,1,,,3,2,Arrow,None,
+16,Linha,,1,,,6,2,Arrow,None,
+17,Linha,,1,,,9,5,Arrow,None,
+18,Linha,,1,,,8,5,Arrow,None,
+19,Linha,,1,,,7,18,Arrow,None,
+20,Linha,,1,,,9,2,Arrow,None,
+21,Linha,,1,,,11,10,Arrow,None,
+22,Linha,,1,,,3,12,None,Arrow,
+23,Linha,,1,,,3,5,Arrow,None,
